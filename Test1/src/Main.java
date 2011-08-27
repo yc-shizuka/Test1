@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("こんにちは．");
 		System.out.println("ありがとう．");
 		System.out.println("こんばんは．");
+		System.out.println("あたしはしずか．");
 	}
 
 }
